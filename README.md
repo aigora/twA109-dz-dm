@@ -1,11 +1,16 @@
-# Título del trabajo
+# TITULO: Controlar el ordenador con sensores
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Consiste en controlar el ordenador con gestos usando sensores como APDS-9960 o de ultrasonido.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+-Dewei Zhou (usuario GitHub: dzhou1999)
+-David Martinez Prieto (usuario GitHub: davidmartinezprieto)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+-Aprender a usar Arduino.
+-Aprender a manejar sensores.
+-Ampliar nuestro conocimiento sobre programación.
+-Aprender a manejar diferentes aplicaciones (Dev c++, Software de Arduino, Matlab, etc.).
+-Saber como intercambiar informacion entre la placa de Arduino y el ordenador.
