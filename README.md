@@ -14,3 +14,7 @@ Consiste en controlar el ordenador con gestos usando sensores como APDS-9960 o d
 -Ampliar nuestro conocimiento sobre programación.
 -Aprender a manejar diferentes aplicaciones (Dev c++, Software de Arduino, Matlab, etc.).
 -Saber como intercambiar informacion entre la placa de Arduino y el ordenador.
+
+## Sensores y actuadores que vamos a utilizar
+-Sensor APDS-9960
+-No utilizaremos actuadores
