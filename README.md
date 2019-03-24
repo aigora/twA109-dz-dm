@@ -16,5 +16,5 @@ Consiste en controlar el ordenador con gestos usando sensores como APDS-9960 o d
 -Saber como intercambiar informacion entre la placa de Arduino y el ordenador.
 
 ## Sensores y actuadores que vamos a utilizar
--Sensor APDS-9960
--No utilizaremos actuadores
+-Sensor APDS-9960.
+-No utilizaremos actuadores.
