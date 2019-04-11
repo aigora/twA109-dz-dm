@@ -27,5 +27,18 @@ Consiste en controlar el ordenador con gestos usando sensores como APDS-9960 o d
 
 ## Funciones
 
-void setup(), void loop(), void blink().
+void setup()
+{
+ Serial.begin(115200);
+
+}
+
+void loop(){
+ uint8_t gesture = apds.readGesture()
+ 
+}
+
+void blink(){
+}
+
 
