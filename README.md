@@ -24,3 +24,8 @@ Consiste en controlar el ordenador con gestos usando sensores como APDS-9960 o d
 -Sensor APDS-9960.
 
 -No utilizaremos actuadores.
+
+## Funciones
+
+void setup(), void loop(), void blink().
+
