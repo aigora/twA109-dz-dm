@@ -43,6 +43,6 @@ void loop(){
 
   El sensor detectará la distancia que hay entre el sensor y la mano, y los datos se enviarán desde la placa de Arduino al ordenador a través del puerto serie (USB). Python leerá estos datos y, según los datos de lectura, se realizará cierta acción en el ordenador. Para poder realizar las acciones en nuestro ordenador es necesario importar tres módulos en Python llamado pyautogui, serial y time.
 
-  El primer sensor de ultrasonido estará conectado a los pines  2, 3 y el pin de 5V.  El sengundo sensor de ultrasonido estará conectado a los pines 4,5 y el pin IOREF que también tendrá 5V.
+  El primer sensor de ultrasonido estará conectado a los pines digitales 2 y 3, el pin de 5V y el pin de tierra GND.  El sengundo sensor de ultrasonido estará conectado a los pines digitales 4 y 5, el pin IOREF que también tendrá 5V y el pin de tierra GND.
 
 
