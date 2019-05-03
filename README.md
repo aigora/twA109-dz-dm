@@ -1,6 +1,6 @@
-# TITULO: Controlar el ordenador con sensores
+# TITULO: SISMOGRAFO CON SENSORES 
 
-Consiste en controlar el ordenador con gestos usando sensores de ultrasonido.
+Consiste en crear un simografo usando sensores de ultrasonido, combinado con Arduino y Processing.
 
 ## Integrantes del equipo
 
@@ -16,7 +16,7 @@ Consiste en controlar el ordenador con gestos usando sensores de ultrasonido.
 
 -Ampliar nuestro conocimiento sobre programación.
 
--Aprender a manejar diferentes aplicaciones (Dev c++, Software de Arduino, Matlab, etc.).
+-Aprender a manejar diferentes aplicaciones (Dev c++, Software de Arduino, Processing, etc.).
 
 -Saber como intercambiar informacion entre la placa de Arduino y el ordenador.
 
@@ -37,12 +37,5 @@ void loop(){
  
 }
 
-## Resumen del trabajo
-
-  El proyecto consiste en controlar ciertas funciones del ordenador moviendo la mano delante de unos sensores, que en este caso utilizaremos dos sensores de ultrasonido conectados a la placa de Arduino. Utilizaremos el programa de Arduino combinado con Python. 
-
-  El sensor detectará la distancia que hay entre el sensor y la mano, y los datos se enviarán desde la placa de Arduino al ordenador a través del puerto serie (USB). Python leerá estos datos y, según los datos de lectura, se realizará cierta acción en el ordenador. Para poder realizar las acciones en nuestro ordenador es necesario importar tres módulos en Python llamado pyautogui, serial y time.
-
-  El primer sensor de ultrasonido estará conectado a los pines digitales 2 y 3, el pin de 5V y el pin de tierra GND.  El sengundo sensor de ultrasonido estará conectado a los pines digitales 4 y 5, el pin IOREF que también tendrá 5V y el pin de tierra GND.
 
 
